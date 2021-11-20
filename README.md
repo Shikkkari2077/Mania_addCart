@@ -1,4 +1,4 @@
-# This project was made in REACT JS Library [MANIA](https://romantic-knuth-17426e.netlify.app/).
+# This project was made in REACT JS Library [MANIA](https://mania-infoware.netlify.app/).
 ## This is Fully responsive web page 
 ## Features
 ### Mobile Responsive
