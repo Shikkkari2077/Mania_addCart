@@ -5,5 +5,5 @@
 ### Add Cart Feature
 #### You can add item into the cart.The cart will be update at realtime 
 ### Show Cart Feature
-#### There is Two cart showing Modules. First one is right column of the application and the second one is when you click on CART then it will be showed up.
+#### There is Two cart showing elements. First one is right column of the application and the second one is when you click on CART then it will be showed up.
 
